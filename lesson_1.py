@@ -1,5 +1,6 @@
 #coding :UTF-8
-
+print ("first blood")
+print("Hi programmer!")
 num = 10/3
 print (num)
 print (type(num))
